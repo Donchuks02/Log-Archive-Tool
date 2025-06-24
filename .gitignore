@@ -1,0 +1,6 @@
+archive_log.txt
+archived_logs/
+extracted_*/
+test/
+.
+..
